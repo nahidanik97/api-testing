@@ -1,0 +1,20 @@
+newman run CollectionName.json -e EnvironmentName.json -r cli,html
+newman run CollectionName.json -e EnvironmentName.json -r cli,htmlextra
+newman run CollectionName.json -d "filepath/data.csv" -n 3
+Newman run collectionName.json -e environmentName.json -d data.csv -n count
+
+
+
+newman run 1st.postman_collection.json -e 1st.postman_environment.json
+newman run 1st.postman_collection.json -e 1st.postman_environment.json -r cli,html
+newman run 1st.postman_collection.json -e 1st.postman_environment.json -r cli,htmlextra
+
+
+
+
+
+
+
+
+
+
