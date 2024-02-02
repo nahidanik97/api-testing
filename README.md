@@ -33,7 +33,10 @@ Walk-through
 ![7](https://github.com/nahidanik97/api-testing/assets/157117314/3904161a-780d-416c-a8a2-580f2e58b5e4)
       
       6.HTTP request: update(PUT)
-      used the generated token to update values in the similar manner with using token in header
+      used the generated token to update values in the similar manner by applying token in headers
+![Screenshot 2024-02-03 053445](https://github.com/nahidanik97/api-testing/assets/157117314/29a0924e-ff31-48cb-ba47-135561885b33)
+
+
       7.HTTP request: verify update(GET)
       tested all attributes and status code after update
 ![8](https://github.com/nahidanik97/api-testing/assets/157117314/316217d3-a45a-4604-9fe8-3e165d89fed2)
